@@ -1,0 +1,9 @@
+*.WAS
+*.PrjPcbStructure
+*.SchDocPreview
+*.Zip
+*.step
+*.dxf
+*Project logs*
+*Project Outputs*
+__Previews/
